@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ryal_News/static/css/main.31d6cfe0.css",
+    "main.js": "/Ryal_News/static/js/main.db8d7dcb.js",
+    "static/js/787.4c026eef.chunk.js": "/Ryal_News/static/js/787.4c026eef.chunk.js",
+    "static/media/loader.gif": "/Ryal_News/static/media/loader.757857ce13a4e4e598e4.gif",
+    "index.html": "/Ryal_News/index.html",
+    "main.db8d7dcb.js.map": "/Ryal_News/static/js/main.db8d7dcb.js.map",
+    "787.4c026eef.chunk.js.map": "/Ryal_News/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.db8d7dcb.js"
+  ]
+}
